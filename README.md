@@ -56,6 +56,15 @@ That's great to hear, well done! Reply to the related GitHub issue with a link t
 
 We also encourage you to post your plugin repositories as well as new plugins in our [Support Server](https://discord.gg/EsNDvBaHVU). Users can then use the built-in Plugin Downloader to install your plugin.
 
+### New Plugin: Passkeys/WebAuthn
+
+We have added a new plugin that allows you to sign in with passkeys/webauthn. This plugin backports the passkeys feature to Aliucord, enabling secure and convenient authentication.
+
+**Functionality:**
+- Register and authenticate using passkeys/webauthn
+- Secure and convenient sign-in process
+
+You can find the plugin in the [passkeys_plugin repository](https://github.com/Aliucord/plugin-requests/tree/main/passkeys_plugin).
 
 ## I really want _x_ plugin, but I don't know how to make it!
 

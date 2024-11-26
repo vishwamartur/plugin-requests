@@ -1,0 +1,11 @@
+{
+  "name": "PasskeysPlugin",
+  "version": "1.0.0",
+  "description": "A plugin to backport passkeys/webauthn support to Aliucord.",
+  "author": "Aliucord",
+  "permissions": [
+    "USE_BIOMETRIC",
+    "USE_FINGERPRINT",
+    "USE_FACE_RECOGNITION"
+  ]
+}
